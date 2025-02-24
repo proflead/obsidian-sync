@@ -201,8 +201,8 @@ Git Plugin
 
 If you are struggling with the steps, I recommend you to watch my detailed video tutorial.
 
-{% embed https://www.youtube.com/embed/PScdHzUiBLA?si=irQnCWpxIgJQN4-k %}
 
+[![Obsidian Sync Tutorial](https://img.youtube.com/vi/irQnCWpxIgJQN4-k/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/embed/PScdHzUiBLA?si=irQnCWpxIgJQN4-k)
 
 _Watch on YouTube:_ [_Obsidian Sync Tutorial_](https://youtu.be/PScdHzUiBLA?si=irQnCWpxIgJQN4-k)
 
