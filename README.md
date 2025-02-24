@@ -202,7 +202,7 @@ Git Plugin
 If you are struggling with the steps, I recommend you to watch my detailed video tutorial.
 
 
-[![Obsidian Sync Tutorial](https://img.youtube.com/vi/irQnCWpxIgJQN4-k/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/embed/PScdHzUiBLA?si=irQnCWpxIgJQN4-k)
+[![Obsidian Sync Tutorial](https://img.youtube.com/vi/PScdHzUiBLA/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/embed/PScdHzUiBLA?si=irQnCWpxIgJQN4-k)
 
 _Watch on YouTube:_ [_Obsidian Sync Tutorial_](https://youtu.be/PScdHzUiBLA?si=irQnCWpxIgJQN4-k)
 
@@ -211,3 +211,5 @@ _Watch on YouTube:_ [_Obsidian Sync Tutorial_](https://youtu.be/PScdHzUiBLA?si=
 While it takes a bit of setup, once done, it works seamlessly. If you found this guide helpful, let me know in the comments, and feel free to ask any questions!
 
 Cheers! ;)
+
+src: https://proflead.dev/posts/sync-obsidian-notes-for-free-mobile-and-desktop/
